@@ -68,7 +68,7 @@ A collection of certificates documenting my participation, achievements, and lea
 |:---|:---|:---:|
 | ECOSTREAM 2026 — 2nd Place | Competition | [View PDF ↗](01-achievements/competitions/ecostream-2026/certificate.pdf) |
 | JCC Jatim Cyber Security | Cybersecurity | [View PDF ↗](https://github.com/afifcom321/Personal-archive/blob/main/01-achievements/competitions/JCC/certificate.pdf) |
-| Linux Command Line: From Zero to Hero | Udemy Course | [View PDF ↗](02-courses-certifications/linux/linux-command-line-zero-to-hero/certificate.pdf) |
+| Linux Command Line: From Zero to Hero | Udemy Course | [View PDF ↗](https://github.com/afifcom321/Personal-archive/blob/main/02-courses-certifications/linux/certificate.pdf) |
 
 > Certificates are linked directly to their respective files in this repository.
 
