@@ -46,15 +46,7 @@ My involvement in this competition included:
 - Exploring the application of IoT technology.
 - Participating in project development and presentation preparation.
 
-## Project Documentation
 
-### Presentation
-
-<p align="center">
-  <img src="documentation/presentation.jpg" alt="Competition Presentation" width="85%">
-</p>
-
-*Documentation of the project presentation during the competition.*
 
 ### Team
 
