@@ -1,11 +1,11 @@
-# ◈ PERSONAL ARCHIVE
+# ◈ AFIF SAKTI WIDIALUKMAN — PERSONAL ARCHIVE
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=180&section=header&text=PERSONAL%20ARCHIVE&fontSize=42&fontColor=FFFFFF&fontAlignY=45&desc=Learning%20%E2%80%A2%20Building%20%E2%80%A2%20Documenting&descSize=14&descAlignY=70&animation=fadeIn" width="100%" alt="Personal Archive Banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=180&section=header&text=AFIF%20SAKTI%20WIDIALUKMAN&fontSize=36&fontColor=FFFFFF&fontAlignY=42&desc=Personal%20Archive%20%E2%80%A2%20Learning%20%E2%80%A2%20Building%20%E2%80%A2%20Documenting&descSize=14&descAlignY=70&animation=fadeIn" width="100%" alt="Afif Sakti Widialukman - Personal Archive Banner"/>
 </p>
 
 <p align="center">
-  <b>A documented journey of learning, achievements, experiments, and experiences.</b>
+  <b>Afif Sakti Widialukman's documented journey of learning, achievements, experiments, and experiences.</b>
   <br/>
   <i>Every experience has a story. Every achievement has a process.</i>
 </p>
@@ -13,6 +13,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/STATUS-ACTIVE-238636?style=flat-square"/>
   <img src="https://img.shields.io/badge/TYPE-PERSONAL_ARCHIVE-30363D?style=flat-square"/>
+  <img src="https://img.shields.io/badge/OWNER-AFIF_SAKTI_WIDIALUKMAN-30363D?style=flat-square"/>
   <img src="https://img.shields.io/badge/YEAR-2026-30363D?style=flat-square"/>
 </p>
 
@@ -20,9 +21,9 @@
 
 ## 01 / INTRODUCTION
 
-Welcome to my personal archive.
+Welcome to the personal archive of **Afif Sakti Widialukman**.
 
-This repository is a centralized collection of my learning journey, achievements, certifications, competitions, technical projects, and experiences.
+This repository is a centralized collection of my learning journey, achievements, certifications, competitions, technical projects, and experiences in Internet of Things (IoT), web development, Linux, and cybersecurity.
 
 More than just a collection of certificates, this archive documents the process behind every milestone — from learning new technologies and participating in competitions to developing projects and exploring new fields.
 
@@ -41,13 +42,13 @@ More than just a collection of certificates, this archive documents the process 
 
 ## 03 / FEATURED MOMENTS
 
-A visual collection of selected moments from my activities and competitions.
+A visual collection of selected moments from the activities and competitions of Afif Sakti Widialukman.
 
 ### ECOSTREAM 2026 — SDGs Connect
 
 <p align="center">
-  <img src="01-achievements/competitions/ecostream-2026/documentation/presentation.jpg" width="48%" alt="ECOSTREAM Presentation"/>
-  <img src="01-achievements/competitions/ecostream-2026/documentation/team-photo.jpg" width="48%" alt="ECOSTREAM Team"/>
+  <img src="01-achievements/competitions/ecostream-2026/documentation/presentation.jpg" width="48%" alt="Afif Sakti Widialukman - ECOSTREAM 2026 Presentation"/>
+  <img src="01-achievements/competitions/ecostream-2026/documentation/team-photo.jpg" width="48%" alt="Afif Sakti Widialukman - ECOSTREAM 2026 Team"/>
 </p>
 
 <p align="center">
@@ -55,20 +56,20 @@ A visual collection of selected moments from my activities and competitions.
   <br/>
   <img src="https://img.shields.io/badge/ACHIEVEMENT-2nd%20PLACE-gold?style=flat-square"/>
   <br/>
-  <sub>Project presentation and team documentation.</sub>
+  <sub>Project presentation and team documentation by Afif Sakti Widialukman.</sub>
   <br/>
   <a href="01-achievements/competitions/ecostream-2026/README.md">Explore Competition →</a>
 </p>
 
 ## 04 / CERTIFICATE COLLECTION
 
-A collection of certificates documenting my participation, achievements, and learning progress.
+A collection of certificates documenting the participation, achievements, and learning progress of Afif Sakti Widialukman.
 
 | Certificate | Category | Document |
 |:---|:---|:---:|
-| ECOSTREAM 2026 — 2nd Place | Competition | [View PDF ↗](01-achievements/competitions/ecostream-2026/certificate.pdf) |
-| JCC Jatim Cyber Security | Cybersecurity | [View PDF ↗](https://github.com/afifcom321/Personal-archive/blob/main/01-achievements/competitions/JCC/certificate.pdf) |
-| Linux Command Line: From Zero to Hero | Udemy Course | [View PDF ↗](https://github.com/afifcom321/Personal-archive/blob/main/02-courses-certifications/linux/certificate.pdf) |
+| ECOSTREAM 2026 — 2nd Place · Afif Sakti Widialukman | Competition | [View PDF ↗](01-achievements/competitions/ecostream-2026/certificate.pdf) |
+| JCC Jatim Cyber Security · Afif Sakti Widialukman | Cybersecurity | [View PDF ↗](https://github.com/afifcom321/Personal-archive/blob/main/01-achievements/competitions/JCC/certificate.pdf) |
+| Linux Command Line: From Zero to Hero · Afif Sakti Widialukman | Udemy Course | [View PDF ↗](https://github.com/afifcom321/Personal-archive/blob/main/02-courses-certifications/linux/certificate.pdf) |
 
 > Certificates are linked directly to their respective files in this repository.
 
@@ -86,9 +87,9 @@ My current areas of exploration and development.
 
 ## 06 / HIGHLIGHTS
 
-- **ECOSTREAM 2026 — UNAIR:** 2nd Place.
-- **JCC Jatim Cyber Security:** Online competition participant.
-- **Linux Command Line:** Udemy course completion.
+- **ECOSTREAM 2026 — UNAIR:** 2nd Place — Afif Sakti Widialukman.
+- **JCC Jatim Cyber Security:** Online competition participant — Afif Sakti Widialukman.
+- **Linux Command Line:** Udemy course completion — Afif Sakti Widialukman.
 
 Each entry includes relevant certificates, descriptions, and available documentation.
 
@@ -119,12 +120,16 @@ This archive values both.
 
 **Learning is progress. Building is practice. Documenting is preserving the journey.**
 
+## 09 / ABOUT THE OWNER
+
+**Afif Sakti Widialukman** (GitHub: [@afifcom321](https://github.com/afifcom321)) — learner and builder with interests in IoT, web development, Linux, and cybersecurity. This repository is the official record of his achievements, certifications, and projects.
+
 ---
 
 <p align="center">
   <b>KEEP LEARNING. KEEP BUILDING. KEEP EXPLORING.</b>
   <br/><br/>
-  <sub>Personal Archive · Maintained by @afifcom321</sub>
+  <sub>Personal Archive · Afif Sakti Widialukman (<a href="https://github.com/afifcom321">@afifcom321</a>)</sub>
   <br/>
-  <sub>© 2026 — A continuous record of growth.</sub>
+  <sub>© 2026 Afif Sakti Widialukman — A continuous record of growth.</sub>
 </p>
