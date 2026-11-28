@@ -67,7 +67,7 @@ Tools built to solve real, practical problems. Each project has a summary in thi
 
 | Project | What it does | Stack | Links |
 |:---|:---|:---|:---|
-| 🔴 **Lokalens** | Multi-device cameras over the local network for OBS and live streaming, with no internet required | Node.js · WebRTC · Socket.IO | [Summary](./04-projects/lokalens/README.md) |
+| 🔴 **Lokalens** | Multi-device cameras over the local network for OBS and live streaming, with no internet required | Node.js · WebRTC · Socket.IO | [Summary](./04-projects/Lokalens/README.md) |
 | 🔔 **School Bell System** | Automatic school bell: a Windows app with a local server and a web dashboard | Electron · Node.js · SQLite | [Summary](./04-projects/school-bell-system/README.md) |
 | 🌡️ **GT30Pro Thermal Kill** | KernelSU module that bypasses thermal throttling on the Infinix GT 30 Pro, for benchmarks only | KernelSU · Shell · MediaTek | [Summary](./04-projects/gt30pro-thermal-kill/README.md) |
 
