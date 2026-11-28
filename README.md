@@ -69,7 +69,7 @@ Tools built to solve real, practical problems. Each project has a summary in thi
 |:---|:---|:---|:---|
 | 🔴 **Lokalens** | Multi-device cameras over the local network for OBS and live streaming, with no internet required | Node.js · WebRTC · Socket.IO | [Summary](./04-projects/Lokalens/README.md) |
 | 🔔 **School Bell System** | Automatic school bell: a Windows app with a local server and a web dashboard | Electron · Node.js · SQLite | [Summary](./04-projects/School-Bell-System/README.md) |
-| 🌡️ **GT30Pro Thermal Kill** | KernelSU module that bypasses thermal throttling on the Infinix GT 30 Pro, for benchmarks only | KernelSU · Shell · MediaTek | [Summary](./04-projects/gt30pro-thermal-kill/README.md) |
+| 🌡️ **GT30Pro Thermal Kill** | KernelSU module that bypasses thermal throttling on the Infinix GT 30 Pro, for benchmarks only | KernelSU · Shell · MediaTek | [Summary](./04-projects/Infinix-gt-30-pro-Disable-Thermal/README.md) |
 
 <p align="center">
   <a href="https://github.com/afifcom321/lokalens"><img src="https://img.shields.io/badge/▶_LOKALENS-e33b3b?style=for-the-badge&logo=github&logoColor=white"/></a>
